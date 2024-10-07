@@ -1,0 +1,26 @@
+﻿[
+  {
+    "UserName": "SystemAdmin",
+    "Email": "SuperAdmin@gmail.com",
+    "PhoneNumber": "01018316994",
+    "FullName": "مسئول النظام",
+    "JobTitle": "SoftWare Developer",
+    "Birthdate": "2000-2-20"
+  },
+  {
+    "UserName": "User1",
+    "Email": "user1@gmail.com",
+    "PhoneNumber": "01129617760",
+    "FullName": "مستخدم 1",
+    "JobTitle": "Doctor",
+    "Birthdate": "2000-2-21"
+  },
+  {
+    "UserName": "User2",
+    "Email": "user2@gmail.com",
+    "PhoneNumber": "01120860873",
+    "FullName": "مستخدم 2",
+    "JobTitle": "Doctor",
+    "Birthdate": "2000-2-22"
+  }
+]
